@@ -20,9 +20,16 @@
   <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;  
   <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+
+### :book: Мои проекты:
+
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|[Когортный анализ и RFM-сегментация пользователей маркетплейса](https://github.com/DimDolino/Find_the_Thief)|Когортный анализ: формируем когорты по признаку месяца первой покупки, а затем анализируем ключевой показатель(Retention Rate); RFM-сегментация: рассчитываем три переменные: Frequency, Recency, Monetary, затем ранжируем пользователей по этим переменным от 1 до 5|**Pandas** **Numpy** **Seaborn** **Plotly.express**|
+
