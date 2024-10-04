@@ -35,6 +35,6 @@
 |[Функция расчета Retention пользователей мобильного приложения](https://github.com/vqqtrr/Retention_Rate_function)|Данная функция получает на вход пути к файлам с регистрациями пользователей и авторизациями пользователей и преобразует всё в сводную таблицу, которая считает RR по дням|**Pandas**, **Numpy**, **Seaborn**|
 |[A/B тест акционных предложений](https://github.com/vqqtrr/AB-test)|Анализ продуктовых метрик: "ARPU", "ARPPU", а также сравнение количества покупок в двух группах. Проверка гипотез, анализ результатов А/B-теста (Критерий независимости хи-квадрат, T-test, Bootstrap).|**Pandas**, **Numpy**, **Seaborn**, "**Scipy**", "**pingouin**"|
 |[Дашборд с вакансиями в сфере "Data Science" на HH.ru](https://public.tableau.com/app/profile/vikotr.panchenko/viz/DashboardHHPanchenkoViktor/sheet15?publish=yes)|Дашборд, который отражает рынок в сфере "Data Science". Датасет с вакансиями взят с сайте "HeadHunter.ru"|**Tableau**|
-|[Дашборд для сети отелей](https://public.tableau.com/app/profile/vikotr.panchenko/viz/DashboardHHPanchenkoViktor/sheet15?publish=yes)|Данный дашборд отражает ключевые метрики для менеджеров одноименной сети отелей|**Tableau**|
+|[Дашборд для сети отелей](https://public.tableau.com/app/profile/vikotr.panchenko/viz/HospitalityoverviewbyPanchenkoViktor/Dashboard?publish=yes)|Данный дашборд отражает ключевые метрики для менеджеров одноименной сети отелей|**Tableau**|
 
 
