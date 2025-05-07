@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  ![Power BI](https://img.shields.io/badge/Power%20BI-white?logo=power-bi&logoColor=%23F2C811&style=for-the-badge);
+  <img src="https://img.shields.io/badge/Power%20BI-white?logo=power-bi&logoColor=%23F2C811&style=for-the-badge" alt="Power BI" title="Power BI" height="40">;
   
 ### :book: Мои проекты:
 
