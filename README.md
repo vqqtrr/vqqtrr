@@ -4,7 +4,7 @@
 
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/vqqtrr)</a>
 
-<div align="left">
+<div align="right">
 
 ### :man_technologist: Обо мне:
 - Я начинающий аналитик данных
