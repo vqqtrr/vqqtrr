@@ -9,7 +9,7 @@
 ### :man_technologist: Обо мне:
 - Аналитик данных
 
-### :hammer_and_wrench: Стек инструментов:
+### :hammer_and_wrench: Стек:
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
